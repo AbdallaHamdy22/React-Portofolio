@@ -1,0 +1,52 @@
+.skill{
+    background-color: rgb(52, 48, 48);
+    position: relative;
+    height: 90vh;
+    overflow: hidden;
+}
+.skill h1{
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 10%;
+}
+.skill .text{
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 15%;
+    width: 70%;
+    left:15%;
+}
+.skill .rightside{
+    position: relative;
+    top:13%;
+    left:50%;
+    width: 35%;
+}
+.skill .leftside{
+    position: absolute;
+    top:40%;
+    width: 50%;
+}
+.skill .leftside h1{
+    left: 45%;
+    width: fit-content;
+    border-bottom: 2px solid white;
+}
+
+.skill .leftside h1{
+    left: 45%;
+    width: 30%;
+    padding-bottom: 3%;
+    border-bottom: 2px solid white;
+}
+.skill ul{
+    list-style: none;
+}
+.skill li{
+    margin-top: 3%;
+    position: relative;
+    color: white;
+    left: 45%;
+}

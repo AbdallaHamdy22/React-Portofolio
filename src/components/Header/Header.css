@@ -1,0 +1,24 @@
+.container {
+    background-image: url("/public/imgs/Site.jpg");
+    background-size: cover;
+    position: relative; 
+    height: 60vh; 
+}
+#name{
+    position: absolute; 
+    top: 15%;
+    left: 10%;
+}
+#Title{
+    position: absolute; 
+    top: 30%;
+    left: 6%;
+}
+
+.contact {
+    position: absolute; 
+    top: 50%; 
+    left: 15%;
+    background-color: transparent;
+    border: 3px solid white;
+}

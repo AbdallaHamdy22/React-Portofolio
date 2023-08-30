@@ -1,0 +1,21 @@
+.container2{
+    height: 35vh;
+}
+.leftside h1{
+    position: absolute;
+    margin-top: 4%;
+    left: 9%;
+}
+.rightside{
+    position: absolute;
+    margin-top: 4%;
+    left:30%;
+}
+.rightside button{
+    position: absolute;
+    margin-top: 2%;
+    border: 2px solid black;
+    background-color: #2F1F1F;
+    color: white;
+    height: 40px;   
+}
