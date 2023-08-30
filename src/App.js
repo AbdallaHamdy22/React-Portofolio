@@ -4,7 +4,7 @@ import Header from './components/Header/Header';
 import Portfolio from './components/Portfolio/portfolio';
 import Skill from './components/Skills/Skill';
 import Footer from './components/footer/Footer';
-function App() {
+export default function App() {
   return (
     <div className="App">
       <Header />
@@ -15,5 +15,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
